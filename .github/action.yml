@@ -1,0 +1,6 @@
+name: 'wrap hellw world'
+description: 'run hello-world image'
+
+runs:
+  using: 'docker'
+  image: 'hello-world:latest'
