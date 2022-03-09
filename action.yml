@@ -3,4 +3,4 @@ description: 'run hello-world image'
 
 runs:
   using: 'docker'
-  image: 'hello-world:latest'
+  image: 'docker://hello-world:latest'
